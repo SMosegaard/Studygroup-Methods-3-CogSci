@@ -1,0 +1,19 @@
+
+
+```{r}
+#Laura tester lige fælles github 
+```
+
+
+```{r}
+## please work 
+```
+
+
+```{r}
+2+2 
+2+1
+```
+
+love this markdown - fra Sofie
+
